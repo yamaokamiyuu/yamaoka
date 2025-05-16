@@ -1,0 +1,44 @@
+h1{
+color:brown;
+}
+
+h2{
+color:brown;
+}
+
+div{
+max-width:640px;
+margin-right:auto;
+margin-left:auto;
+}
+
+table{
+border-collapse: collapse;
+width: 100%;
+}
+
+th,td{
+border: 1px solid #333;
+padding: 8px;
+text-align:
+}
+
+body{
+background-color:#fff8e1;
+}
+
+h1,table,footer{
+text-align:center;
+}
+
+body{
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Noto+Sans+JP:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+}
+
+img{
+max-width:100%;
+}
+
+iframe{
+max-width:100%;
+}
